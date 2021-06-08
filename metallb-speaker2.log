@@ -1,0 +1,500 @@
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:38312","ts":"2021-06-08T17:58:05.438904991Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:35104","ts":"2021-06-08T17:58:31.425278767Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T17:58:34.054753779Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:38386","ts":"2021-06-08T17:58:35.440831488Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:35338","ts":"2021-06-08T17:59:01.426733506Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T17:59:04.055918703Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:38466","ts":"2021-06-08T17:59:05.441909351Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:35598","ts":"2021-06-08T17:59:31.428160792Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T17:59:34.057626517Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:38540","ts":"2021-06-08T17:59:35.443252139Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:35838","ts":"2021-06-08T18:00:01.429397184Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:00:04.058922903Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:00:34.060184235Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:38692","ts":"2021-06-08T18:00:35.445855244Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:36332","ts":"2021-06-08T18:01:01.432799906Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:01:04.061294019Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:38772","ts":"2021-06-08T18:01:05.447237881Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:01:34.062347074Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:36834","ts":"2021-06-08T18:02:01.435333817Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:02:02.381646012Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:02:04.063539612Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:02:34.064765221Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:37322","ts":"2021-06-08T18:03:01.438361106Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:03:04.066044044Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:37588","ts":"2021-06-08T18:03:31.439749777Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:03:34.067052506Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:04:04.068129626Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:04:34.069329751Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:05:04.07064695Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:38568","ts":"2021-06-08T18:05:31.448220265Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:05:34.071863469Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:39458","ts":"2021-06-08T18:05:35.459094762Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:38800","ts":"2021-06-08T18:06:01.451096589Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:06:04.073230435Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:06:34.074957991Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:39612","ts":"2021-06-08T18:06:35.461207885Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:07:04.076315756Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:07:04.776375237Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:07:34.077443201Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:08:04.078632481Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:39840","ts":"2021-06-08T18:08:05.46470924Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:40042","ts":"2021-06-08T18:08:31.45922246Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:08:34.07989544Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:39916","ts":"2021-06-08T18:08:35.465741049Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:40280","ts":"2021-06-08T18:09:01.460970773Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:09:04.081152364Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:09:34.082348297Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:10:04.083622082Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:40154","ts":"2021-06-08T18:10:05.469430736Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:41034","ts":"2021-06-08T18:10:31.465487925Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:10:34.084767541Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:41268","ts":"2021-06-08T18:11:01.467400049Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:11:04.086027166Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:11:34.087313619Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:40380","ts":"2021-06-08T18:11:35.473527229Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:41746","ts":"2021-06-08T18:12:01.470084543Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:12:04.089140283Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:40458","ts":"2021-06-08T18:12:05.474719613Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:12:07.176053332Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:12:34.090523314Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:40534","ts":"2021-06-08T18:12:35.475941598Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:42246","ts":"2021-06-08T18:13:01.473433929Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:13:04.091694837Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:40610","ts":"2021-06-08T18:13:05.477148066Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:42484","ts":"2021-06-08T18:13:31.475013942Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:13:34.09309462Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:40684","ts":"2021-06-08T18:13:35.478351764Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:42760","ts":"2021-06-08T18:14:01.476399369Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:14:04.094669402Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:14:34.09620524Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:40840","ts":"2021-06-08T18:14:35.480895279Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:43234","ts":"2021-06-08T18:15:01.480659082Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:15:04.099015046Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:40920","ts":"2021-06-08T18:15:05.482496624Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:43486","ts":"2021-06-08T18:15:31.481823697Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:15:34.100413905Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:16:04.101512427Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:41072","ts":"2021-06-08T18:16:05.484998051Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:16:34.102650269Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:44220","ts":"2021-06-08T18:17:01.485877564Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:17:04.104167837Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:41226","ts":"2021-06-08T18:17:05.487280777Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:17:09.458816254Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:17:34.106582769Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:18:04.10784837Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:41376","ts":"2021-06-08T18:18:05.49005054Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:18:34.109112215Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:45220","ts":"2021-06-08T18:19:01.491636304Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:19:04.110297301Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:19:34.111596735Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:45708","ts":"2021-06-08T18:20:01.494408094Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:20:04.112888833Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:41688","ts":"2021-06-08T18:20:05.494970068Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:20:34.117830115Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:41764","ts":"2021-06-08T18:20:35.496238517Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:46210","ts":"2021-06-08T18:21:01.497127967Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:21:04.11917895Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:41838","ts":"2021-06-08T18:21:05.497543542Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:46452","ts":"2021-06-08T18:21:31.498786444Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:21:34.120510901Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:41912","ts":"2021-06-08T18:21:35.498948716Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:22:04.12443086Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:41992","ts":"2021-06-08T18:22:05.500352456Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:22:11.771321828Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:46954","ts":"2021-06-08T18:22:31.501338913Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:22:34.125875404Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:23:04.12704169Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:23:34.128617542Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:24:04.129803755Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:42300","ts":"2021-06-08T18:24:05.506351528Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:24:34.130923685Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:48212","ts":"2021-06-08T18:25:01.508530151Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:25:04.132780862Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:42454","ts":"2021-06-08T18:25:05.50875255Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:25:34.134027596Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:42528","ts":"2021-06-08T18:25:35.51004725Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:26:04.135256643Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:26:34.137383282Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:42684","ts":"2021-06-08T18:26:35.512634294Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:27:04.138940374Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:27:14.012794936Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:49432","ts":"2021-06-08T18:27:31.515118061Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:27:34.140166732Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:42834","ts":"2021-06-08T18:27:35.515056165Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:28:04.141361925Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:42918","ts":"2021-06-08T18:28:05.516102384Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:28:34.14250964Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:42992","ts":"2021-06-08T18:28:35.517274767Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:29:04.143806954Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43068","ts":"2021-06-08T18:29:05.518454219Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:50428","ts":"2021-06-08T18:29:31.522746709Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:29:34.145177913Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43142","ts":"2021-06-08T18:29:35.519739378Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:30:04.146728454Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:50918","ts":"2021-06-08T18:30:31.525376156Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:30:34.148201907Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:51168","ts":"2021-06-08T18:31:01.527031504Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:31:04.149741665Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43374","ts":"2021-06-08T18:31:05.523966735Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:51422","ts":"2021-06-08T18:31:31.528405359Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:31:34.15083838Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43446","ts":"2021-06-08T18:31:35.525198938Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:32:04.152290992Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43526","ts":"2021-06-08T18:32:05.526565002Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:32:16.364481284Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:32:34.153613398Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43604","ts":"2021-06-08T18:32:35.527940247Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:52144","ts":"2021-06-08T18:33:01.532882075Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:33:04.15482696Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43680","ts":"2021-06-08T18:33:05.529054804Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:52404","ts":"2021-06-08T18:33:31.534059025Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:33:34.156259343Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43750","ts":"2021-06-08T18:33:35.530254881Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:34:04.157569041Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43830","ts":"2021-06-08T18:34:05.531530079Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:34:34.158782631Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43908","ts":"2021-06-08T18:34:35.532750516Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:53146","ts":"2021-06-08T18:35:01.537803994Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:35:04.160057742Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43990","ts":"2021-06-08T18:35:05.533870852Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:35:34.161426285Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:53628","ts":"2021-06-08T18:36:01.540753001Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:36:04.162542055Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44138","ts":"2021-06-08T18:36:05.53652171Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:53884","ts":"2021-06-08T18:36:31.542194959Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:36:34.163838094Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44214","ts":"2021-06-08T18:36:35.537810519Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:54126","ts":"2021-06-08T18:37:01.543443193Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:37:04.165182761Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44292","ts":"2021-06-08T18:37:05.540284312Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:37:18.692531233Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:37:34.166431245Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:38:04.167678562Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:54876","ts":"2021-06-08T18:38:31.547323144Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:38:34.172651472Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44526","ts":"2021-06-08T18:38:35.544257859Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:39:04.1737898Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44606","ts":"2021-06-08T18:39:05.545334009Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:55358","ts":"2021-06-08T18:39:31.549758623Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:39:34.175190952Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44676","ts":"2021-06-08T18:39:35.546526278Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:40:04.176469883Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44756","ts":"2021-06-08T18:40:05.547824395Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:55858","ts":"2021-06-08T18:40:31.552376693Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:40:34.177640056Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44832","ts":"2021-06-08T18:40:35.548929549Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:56096","ts":"2021-06-08T18:41:01.553572178Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:41:04.179020327Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44912","ts":"2021-06-08T18:41:05.550015277Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:41:34.180389721Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44986","ts":"2021-06-08T18:41:35.551139044Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:56592","ts":"2021-06-08T18:42:01.555875489Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:42:04.181683022Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45062","ts":"2021-06-08T18:42:05.552233266Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:42:20.94521012Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:56832","ts":"2021-06-08T18:42:31.55715136Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:42:34.183049941Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:43:04.184672117Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:57336","ts":"2021-06-08T18:43:31.559433391Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:43:34.186119793Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45288","ts":"2021-06-08T18:43:35.555722973Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:44:04.18752032Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45372","ts":"2021-06-08T18:44:05.556797662Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:57832","ts":"2021-06-08T18:44:31.56174645Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:44:34.188828942Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45446","ts":"2021-06-08T18:44:35.558058166Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:45:04.190656744Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:58314","ts":"2021-06-08T18:45:31.56396946Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:45:34.191894244Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:46:04.193181312Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:58820","ts":"2021-06-08T18:46:31.566136027Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:46:34.194572428Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45752","ts":"2021-06-08T18:46:35.563291136Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:59054","ts":"2021-06-08T18:47:01.567368685Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:47:04.195941201Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45834","ts":"2021-06-08T18:47:05.56467593Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:47:23.21151372Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:59318","ts":"2021-06-08T18:47:31.56851565Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:47:34.197215175Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45904","ts":"2021-06-08T18:47:35.565694584Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:48:04.19956406Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45982","ts":"2021-06-08T18:48:05.566840984Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:48:34.201253693Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:46058","ts":"2021-06-08T18:48:35.568058685Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:60044","ts":"2021-06-08T18:49:01.572124094Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:49:04.20260105Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:46140","ts":"2021-06-08T18:49:05.56935334Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:60300","ts":"2021-06-08T18:49:31.573214102Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:49:34.205907868Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:50:04.207037654Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:60804","ts":"2021-06-08T18:50:31.576302249Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:50:34.211097833Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:32814","ts":"2021-06-08T18:51:01.577708334Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:51:04.21238631Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:51:34.21378053Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:46522","ts":"2021-06-08T18:51:35.577614919Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:33308","ts":"2021-06-08T18:52:01.581501538Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:52:04.215024875Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:52:25.443103283Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:52:34.216398461Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:53:04.21767198Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:53:34.219239431Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:46828","ts":"2021-06-08T18:53:35.582820527Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:54:04.222133236Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:46906","ts":"2021-06-08T18:54:05.584062252Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:34540","ts":"2021-06-08T18:54:31.589234631Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:54:34.223375123Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:34786","ts":"2021-06-08T18:55:01.590503921Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:55:04.224766388Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:55:34.225885856Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:47136","ts":"2021-06-08T18:55:35.587466854Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:35278","ts":"2021-06-08T18:56:01.593237109Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:56:04.227126202Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:35520","ts":"2021-06-08T18:56:31.594676181Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:56:34.228413735Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:47292","ts":"2021-06-08T18:56:35.590024062Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:35760","ts":"2021-06-08T18:57:01.596291595Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T18:57:04.229635404Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:57:27.766925083Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:36018","ts":"2021-06-08T18:57:31.597476211Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:57:34.230788836Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:36262","ts":"2021-06-08T18:58:01.598694045Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:58:04.232139876Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:47520","ts":"2021-06-08T18:58:05.593558623Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:58:34.23331019Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:47596","ts":"2021-06-08T18:58:35.594801329Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:36756","ts":"2021-06-08T18:59:01.601298657Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:59:04.23469503Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:37030","ts":"2021-06-08T18:59:31.602671373Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:59:34.236002389Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:37268","ts":"2021-06-08T19:00:01.604542465Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:00:04.237130765Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:47826","ts":"2021-06-08T19:00:05.59939083Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:37504","ts":"2021-06-08T19:00:31.605585659Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:00:34.23847574Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:47900","ts":"2021-06-08T19:00:35.601097245Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:01:04.239704426Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:38010","ts":"2021-06-08T19:01:31.608274297Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:01:34.240783593Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:02:04.242025248Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:02:30.071892272Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:38506","ts":"2021-06-08T19:02:31.610973592Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:02:34.243482635Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:48210","ts":"2021-06-08T19:02:35.607398684Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:38760","ts":"2021-06-08T19:03:01.613431295Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:03:04.244861259Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:03:34.246425829Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:39250","ts":"2021-06-08T19:04:01.618419844Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:04:04.247671654Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:39484","ts":"2021-06-08T19:04:31.619646024Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:04:34.249047881Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:48516","ts":"2021-06-08T19:04:35.612519845Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:05:04.250462082Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:39998","ts":"2021-06-08T19:05:31.622916101Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:05:34.251617399Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:48672","ts":"2021-06-08T19:05:35.614772614Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:40228","ts":"2021-06-08T19:06:01.624129106Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:06:04.252725045Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:06:34.253860387Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:07:04.255183341Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:40982","ts":"2021-06-08T19:07:31.631730011Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:07:32.454642451Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:07:34.256379457Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:08:04.257585575Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:49052","ts":"2021-06-08T19:08:05.620886444Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:08:34.258911356Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:49134","ts":"2021-06-08T19:08:35.622260708Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:41722","ts":"2021-06-08T19:09:01.635393598Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:09:04.26037249Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:41970","ts":"2021-06-08T19:09:31.636550992Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:09:34.261519368Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:42234","ts":"2021-06-08T19:10:01.639481773Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:10:04.262679886Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:49360","ts":"2021-06-08T19:10:05.628134064Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:42472","ts":"2021-06-08T19:10:31.640505352Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:10:34.263928022Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:49438","ts":"2021-06-08T19:10:35.629399181Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:11:04.265326688Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:11:34.266545866Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:43204","ts":"2021-06-08T19:12:01.644215509Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:12:04.267913826Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:49666","ts":"2021-06-08T19:12:05.633227784Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:43456","ts":"2021-06-08T19:12:31.645683159Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:12:34.269004878Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:12:34.857204478Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:49744","ts":"2021-06-08T19:12:35.635725401Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:13:04.270377442Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:49816","ts":"2021-06-08T19:13:05.636868032Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:43940","ts":"2021-06-08T19:13:31.648576693Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:13:34.271647452Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:14:04.273105901Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:14:34.27440585Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:15:04.275662051Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:44942","ts":"2021-06-08T19:15:31.65684217Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:15:34.277007046Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:45192","ts":"2021-06-08T19:16:01.658070581Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:16:04.278266497Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:45426","ts":"2021-06-08T19:16:31.659159243Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:16:34.279678376Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:17:04.281011699Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:50432","ts":"2021-06-08T19:17:05.646870699Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:45934","ts":"2021-06-08T19:17:31.66139354Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:17:34.282932434Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:50510","ts":"2021-06-08T19:17:35.64865748Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:17:37.176726294Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:46176","ts":"2021-06-08T19:18:01.662574544Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:18:04.284327565Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:18:34.285798707Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:19:04.28767684Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:50736","ts":"2021-06-08T19:19:05.652884645Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:19:34.28941398Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:50814","ts":"2021-06-08T19:19:35.654206188Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:47160","ts":"2021-06-08T19:20:01.667373243Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:20:04.291175167Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:50894","ts":"2021-06-08T19:20:05.655315785Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:47414","ts":"2021-06-08T19:20:31.668683853Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:20:34.292495358Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:21:04.29383966Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:21:34.295127453Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:51120","ts":"2021-06-08T19:21:35.659023912Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:22:04.296629474Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:51196","ts":"2021-06-08T19:22:05.661007344Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:48434","ts":"2021-06-08T19:22:31.674348601Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:22:34.297750231Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:22:39.52313349Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:23:04.299136556Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:51350","ts":"2021-06-08T19:23:05.664377682Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:23:34.300322539Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:49174","ts":"2021-06-08T19:24:01.678936832Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:24:04.301757478Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:24:34.303132963Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:51584","ts":"2021-06-08T19:24:35.669242965Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:25:04.304781492Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:51658","ts":"2021-06-08T19:25:05.671275996Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:25:34.306588904Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:51736","ts":"2021-06-08T19:25:35.672450518Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:50160","ts":"2021-06-08T19:26:01.684428329Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:26:04.308062706Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:50426","ts":"2021-06-08T19:26:31.685555498Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:26:34.309588359Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:50656","ts":"2021-06-08T19:27:01.686916449Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:27:04.311069289Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:51964","ts":"2021-06-08T19:27:05.676217726Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:50890","ts":"2021-06-08T19:27:31.688253528Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:27:34.312558521Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:52042","ts":"2021-06-08T19:27:35.67747305Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:27:41.936408767Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:51152","ts":"2021-06-08T19:28:01.689470506Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:28:04.313987372Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:52112","ts":"2021-06-08T19:28:05.67869503Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:51400","ts":"2021-06-08T19:28:31.690713891Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:28:34.315154474Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:52194","ts":"2021-06-08T19:28:35.679908811Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:51642","ts":"2021-06-08T19:29:01.691873187Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:29:04.31641955Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:52272","ts":"2021-06-08T19:29:05.681240032Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:51890","ts":"2021-06-08T19:29:31.693153879Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:29:34.31774431Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:00.32747389Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:00.327628469Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:30:02.348601344Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:30:02.348649631Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:30:04.319267636Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:04.757534505Z"} 
+{"caller":"main.go:212","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:04.757617092Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:04.884521306Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:04.884607495Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:04.911401879Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:04.911456468Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:52436","ts":"2021-06-08T19:30:05.684309145Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:06.733991488Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:06.734283977Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:07.286349306Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:07.286415535Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:08.235353425Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:08.235449782Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:08.795706698Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:08.79603016Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:30:10.938458214Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:30:10.938758404Z"} 
+{"caller":"announcer.go:109","event":"createARPResponder","interface":"calib889b26119f","msg":"created ARP responder for interface","ts":"2021-06-08T19:30:14.302833539Z"} 
+{"caller":"announcer.go:118","event":"createNDPResponder","interface":"calib889b26119f","msg":"created NDP responder for interface","ts":"2021-06-08T19:30:14.303376897Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:20.364558946Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:20.364627861Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:52696","ts":"2021-06-08T19:30:31.697714854Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:33.462798544Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:33.463038034Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:30:34.322879988Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:52780","ts":"2021-06-08T19:30:35.685363807Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:43.863991604Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:43.864063526Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:30:45.249795159Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:30:51.068565411Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:30:51.068795733Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:30:53.314925996Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:02.990697845Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:02.990771787Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:04.286628041Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:04.286891053Z"} 
+{"caller":"announcer.go:109","event":"createARPResponder","interface":"cali8a5b98b20cf","msg":"created ARP responder for interface","ts":"2021-06-08T19:31:04.313892844Z"} 
+{"caller":"announcer.go:114","error":"creating NDP responder for \"cali8a5b98b20cf\": listen ip6:ipv6-icmp fe80::ecee:eeff:feee:eeee%cali8a5b98b20cf: bind: cannot assign requested address","interface":"cali8a5b98b20cf","msg":"failed to create NDP responder","op":"createNDPResponder","ts":"2021-06-08T19:31:04.314273568Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:31:04.324117888Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:53076","ts":"2021-06-08T19:31:05.690596862Z"} 
+{"caller":"announcer.go:118","event":"createNDPResponder","interface":"cali8a5b98b20cf","msg":"created NDP responder for interface","ts":"2021-06-08T19:31:14.317377034Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:15.414409579Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:15.414486066Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:15.431223426Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:15.431317009Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:31:16.588703734Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:18.76943011Z"} 
+{"caller":"main.go:212","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:18.769481348Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:18.787890112Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:18.787969321Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:18.822048501Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:18.822824928Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:31:23.573067921Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:25.345812135Z"} 
+{"caller":"main.go:212","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:25.345866462Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:25.376373326Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:25.376444797Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:25.830206022Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:25.830591712Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.903214555Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.903333611Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.919526398Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.919582436Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.85:53894","ts":"2021-06-08T19:31:31.703953316Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:31:34.325377357Z"} 
+{"caller":"announcer.go:109","event":"createARPResponder","interface":"cali00d7b0fe5ee","msg":"created ARP responder for interface","ts":"2021-06-08T19:31:34.329572347Z"} 
+{"caller":"announcer.go:114","error":"creating NDP responder for \"cali00d7b0fe5ee\": listen ip6:ipv6-icmp fe80::ecee:eeff:feee:eeee%cali00d7b0fe5ee: bind: cannot assign requested address","interface":"cali00d7b0fe5ee","msg":"failed to create NDP responder","op":"createNDPResponder","ts":"2021-06-08T19:31:34.330701418Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:35.050202871Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:35.050288075Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.013806961Z"} 
+{"caller":"main.go:212","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.013864999Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.022993332Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.023077842Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.068539442Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.068814495Z"} 
+{"caller":"announcer.go:118","event":"createNDPResponder","interface":"cali00d7b0fe5ee","msg":"created NDP responder for interface","ts":"2021-06-08T19:31:44.346266656Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.35862402Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.358713999Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.37840252Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.378504161Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:47.912914838Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:47.913213152Z"} 
+{"caller":"announcer.go:126","event":"deleteARPResponder","interface":"calib889b26119f","msg":"deleted ARP responder for interface","ts":"2021-06-08T19:31:54.367780429Z"} 
+{"caller":"announcer.go:133","event":"deleteNDPResponder","interface":"calib889b26119f","msg":"deleted NDP responder for interface","ts":"2021-06-08T19:31:54.367896924Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:32:03.88869167Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:32:03.971873386Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.85:7946","ts":"2021-06-08T19:32:04.326819821Z"} 
+{"caller":"announcer.go:126","event":"deleteARPResponder","interface":"cali8a5b98b20cf","msg":"deleted ARP responder for interface","ts":"2021-06-08T19:32:04.383596107Z"} 
+{"caller":"announcer.go:133","event":"deleteNDPResponder","interface":"cali8a5b98b20cf","msg":"deleted NDP responder for interface","ts":"2021-06-08T19:32:04.383683847Z"} 
+{"caller":"announcer.go:126","event":"deleteARPResponder","interface":"cali00d7b0fe5ee","msg":"deleted ARP responder for interface","ts":"2021-06-08T19:32:24.411676602Z"} 
+{"caller":"announcer.go:133","event":"deleteNDPResponder","interface":"cali00d7b0fe5ee","msg":"deleted NDP responder for interface","ts":"2021-06-08T19:32:24.411766628Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:32:34.107561539Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:32:34.156174119Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:32:34.329007618Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:53616","ts":"2021-06-08T19:32:35.706327526Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:33:04.330329406Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:53688","ts":"2021-06-08T19:33:05.70776786Z"} 

@@ -1,0 +1,500 @@
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:28.579597508Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:28.579614592Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:28.579738311Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:28.579748397Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3","ts":"2021-06-08T19:31:28.57975959Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3","ts":"2021-06-08T19:31:28.579779907Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3","ts":"2021-06-08T19:31:28.579876135Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3","ts":"2021-06-08T19:31:28.57988548Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:28.579903538Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:28.579921573Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:28.580041329Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:28.580071542Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:28.580082332Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:28.580093493Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:28.580227764Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:28.5802374Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:28.580248683Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:28.580266866Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:28.580372438Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:28.580381822Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:28.580392655Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:28.580410419Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:28.580514919Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:28.580539761Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:28.580550145Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:28.58057249Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:28.580660055Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:28.580669366Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"default/kubernetes","ts":"2021-06-08T19:31:28.580690286Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"default/kubernetes","ts":"2021-06-08T19:31:28.616287648Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"default/kubernetes","ts":"2021-06-08T19:31:28.616407308Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"default/kubernetes","ts":"2021-06-08T19:31:28.616420928Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:28.616443897Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:28.616464853Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:28.616536224Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:28.616545037Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.872578682Z"} 
+{"caller":"service.go:114","event":"ipAllocated","ip":"192.168.1.171","msg":"IP address assigned by controller","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.8726635Z"} 
+{"caller":"main.go:96","event":"serviceUpdated","msg":"updated service object","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.899351399Z"} 
+{"caller":"main.go:98","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.899395426Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.90340282Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.903631746Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.903651511Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.922581252Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.922781577Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.92279883Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:32.664473161Z"} 
+{"caller":"main.go:103","event":"serviceDeleted","msg":"service deleted","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:32.664525516Z"} 
+{"caller":"main.go:57","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:32.664542588Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-helm/mongo-helm-mongodb","ts":"2021-06-08T19:31:32.671492426Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-helm/mongo-helm-mongodb","ts":"2021-06-08T19:31:32.671726389Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-helm/mongo-helm-mongodb","ts":"2021-06-08T19:31:32.67174807Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:32.671763566Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:32.671778176Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:32.671880062Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:32.671897572Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:32.671908177Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:32.671924106Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:32.672012609Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:32.672026641Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:32.672060482Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:32.672073408Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:32.672216557Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:32.672229813Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:32.672263444Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:32.672277779Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:32.672385035Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:32.672399365Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:32.672409623Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:32.672421172Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:32.674751437Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:32.674784317Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:32.674829498Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:32.674865669Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:32.675023774Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:32.675042794Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3","ts":"2021-06-08T19:31:32.675059079Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3","ts":"2021-06-08T19:31:32.675080326Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3","ts":"2021-06-08T19:31:32.675175669Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3","ts":"2021-06-08T19:31:32.675202402Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:32.675218871Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:32.675257088Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:32.67538455Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:32.675402511Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:32.675424403Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:32.675442828Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:32.675536265Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:32.675562003Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:32.67558628Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:32.675614166Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:32.675703536Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:32.67571743Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:32.675728779Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:32.675751288Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:32.675846494Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:32.675861572Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:32.675876944Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:32.675899571Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:32.676016426Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:32.676026633Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/w3api","ts":"2021-06-08T19:31:32.676052065Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/w3api","ts":"2021-06-08T19:31:32.676089487Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/w3api","ts":"2021-06-08T19:31:32.676238077Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/w3api","ts":"2021-06-08T19:31:32.676252901Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"default/kubernetes","ts":"2021-06-08T19:31:32.676273419Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"default/kubernetes","ts":"2021-06-08T19:31:32.676297282Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"default/kubernetes","ts":"2021-06-08T19:31:32.67637829Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"default/kubernetes","ts":"2021-06-08T19:31:32.676389316Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:32.676404385Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:32.67642507Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:32.676521204Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:32.676536047Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:32.676547314Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:32.676574254Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:32.67666822Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:32.676682985Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:32.676710248Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:32.676731812Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:32.676842298Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:32.676852199Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:32.676867225Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:32.676890445Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:32.67702492Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:32.67703573Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:32.677054154Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:32.677073583Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:32.677173263Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:32.677190168Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:32.677229478Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:32.677260241Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:32.677368774Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:32.677386285Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/purchasing","ts":"2021-06-08T19:31:32.677405859Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/purchasing","ts":"2021-06-08T19:31:32.677422887Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/purchasing","ts":"2021-06-08T19:31:32.677518273Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/purchasing","ts":"2021-06-08T19:31:32.677528157Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:35.981649608Z"} 
+{"caller":"service.go:114","event":"ipAllocated","ip":"192.168.1.171","msg":"IP address assigned by controller","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:35.981725413Z"} 
+{"caller":"main.go:96","event":"serviceUpdated","msg":"updated service object","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.038913325Z"} 
+{"caller":"main.go:98","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.038954033Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.039077248Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.039303336Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.0393238Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.053919445Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.054154455Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.054170072Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:39.518526065Z"} 
+{"caller":"main.go:103","event":"serviceDeleted","msg":"service deleted","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:39.518601634Z"} 
+{"caller":"main.go:57","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:39.518615316Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:39.523790512Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:39.523846382Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:39.523962483Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:39.523979854Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:39.52399844Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:39.524012932Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:39.524089513Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:39.524104344Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:39.524155499Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:39.524170449Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:39.524247863Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:39.524257701Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:39.524268917Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:39.524283309Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:39.524363464Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:39.524372287Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:39.524391576Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:39.524413496Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:39.524529452Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:39.524542506Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/w3api","ts":"2021-06-08T19:31:39.524554386Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/w3api","ts":"2021-06-08T19:31:39.524568795Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/w3api","ts":"2021-06-08T19:31:39.524643508Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/w3api","ts":"2021-06-08T19:31:39.524655522Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:39.524678179Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:39.524693258Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:39.524781161Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:39.5247922Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3","ts":"2021-06-08T19:31:39.524802815Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3","ts":"2021-06-08T19:31:39.524814519Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3","ts":"2021-06-08T19:31:39.524887272Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3","ts":"2021-06-08T19:31:39.524927311Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"default/kubernetes","ts":"2021-06-08T19:31:39.524938157Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"default/kubernetes","ts":"2021-06-08T19:31:39.524951192Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"default/kubernetes","ts":"2021-06-08T19:31:39.525006517Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"default/kubernetes","ts":"2021-06-08T19:31:39.525018055Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:39.525029111Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:39.525043516Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:39.525112046Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:39.525130073Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:39.525147388Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:39.525160019Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:39.52523085Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:39.525242785Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:39.525254411Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:39.525270203Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:39.525377283Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:39.525390415Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:39.525401661Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:39.525412957Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:39.5254963Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:39.52550693Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:39.525517634Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:39.525531574Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:39.525619143Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:39.525629932Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/purchasing","ts":"2021-06-08T19:31:39.525646012Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/purchasing","ts":"2021-06-08T19:31:39.525657246Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/purchasing","ts":"2021-06-08T19:31:39.525732221Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/purchasing","ts":"2021-06-08T19:31:39.525743172Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:39.525753131Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:39.525766648Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:39.525857781Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:39.5258687Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:39.525880367Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:39.52589229Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:39.525972765Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:39.525983317Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:39.525993397Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:39.526005147Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:39.526114994Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:39.526128101Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:39.52613861Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:39.526151316Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:39.526257137Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:39.526269356Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:39.526280196Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:39.526292239Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:39.526401208Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:39.526418616Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-helm/mongo-helm-mongodb","ts":"2021-06-08T19:31:39.52644673Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-helm/mongo-helm-mongodb","ts":"2021-06-08T19:31:39.52666008Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-helm/mongo-helm-mongodb","ts":"2021-06-08T19:31:39.52667601Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:39.526687377Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:39.526702819Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:39.526802529Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:39.526814163Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.321324586Z"} 
+{"caller":"service.go:114","event":"ipAllocated","ip":"192.168.1.171","msg":"IP address assigned by controller","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.321423293Z"} 
+{"caller":"main.go:96","event":"serviceUpdated","msg":"updated service object","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.372042516Z"} 
+{"caller":"main.go:98","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.372088571Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.372110671Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.372336413Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.372358185Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.387394091Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.387619722Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.387636041Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:51.689878938Z"} 
+{"caller":"main.go:103","event":"serviceDeleted","msg":"service deleted","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:51.689929873Z"} 
+{"caller":"main.go:57","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:51.689942593Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:51.695087275Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:51.69514641Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:51.695249629Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:51.695261205Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:51.695275663Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:51.69529461Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:51.69540136Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:51.695413511Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:51.69542419Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:51.695444599Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:51.695513832Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:51.695523658Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:51.695534051Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:51.695551137Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:51.695626403Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:51.695635331Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-helm/mongo-helm-mongodb","ts":"2021-06-08T19:31:51.695645016Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-helm/mongo-helm-mongodb","ts":"2021-06-08T19:31:51.695786947Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-helm/mongo-helm-mongodb","ts":"2021-06-08T19:31:51.695798956Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:51.695810279Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:51.69582355Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:51.695911654Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:51.695920889Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:51.695931544Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:51.695946766Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:51.696034274Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:51.696045277Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:51.696055081Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:51.696066109Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:51.696157983Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:51.69619261Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:51.696203359Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:51.696214537Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:51.696292194Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:51.69630405Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:51.696317835Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:51.696331582Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:51.696404963Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:51.696416517Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:51.69642677Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:51.696439558Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:51.696530668Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:51.69653918Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/w3api","ts":"2021-06-08T19:31:51.696549095Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/w3api","ts":"2021-06-08T19:31:51.69656043Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/w3api","ts":"2021-06-08T19:31:51.696641872Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/w3api","ts":"2021-06-08T19:31:51.696650549Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:51.696665883Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:51.696678732Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:51.696763199Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:51.696773853Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3","ts":"2021-06-08T19:31:51.696784017Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3","ts":"2021-06-08T19:31:51.696799086Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3","ts":"2021-06-08T19:31:51.696875323Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3","ts":"2021-06-08T19:31:51.69688595Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"default/kubernetes","ts":"2021-06-08T19:31:51.696895994Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"default/kubernetes","ts":"2021-06-08T19:31:51.696908662Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"default/kubernetes","ts":"2021-06-08T19:31:51.696959847Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"default/kubernetes","ts":"2021-06-08T19:31:51.696968241Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:51.696978691Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:51.696991822Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:51.697053094Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:51.697061459Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:51.697071227Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:51.697081238Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:51.697144476Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:51.697152748Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:51.697162637Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:51.697178366Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:51.69729543Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:51.697306135Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:51.697316296Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:51.697328081Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:51.697410741Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:51.697427264Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:51.697439602Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:51.697451131Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:51.697535561Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:51.697544286Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/purchasing","ts":"2021-06-08T19:31:51.697554265Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/purchasing","ts":"2021-06-08T19:31:51.697564431Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/purchasing","ts":"2021-06-08T19:31:51.697635507Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/purchasing","ts":"2021-06-08T19:31:51.697644021Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:51.697653731Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:51.697666796Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:51.697749234Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:51.697759653Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:52.790238819Z"} 
+{"caller":"main.go:57","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:52.790279888Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:52.793000618Z"} 
+{"caller":"main.go:57","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:52.79304056Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"default/kubernetes","ts":"2021-06-08T19:31:52.795480285Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"default/kubernetes","ts":"2021-06-08T19:31:52.795549458Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"default/kubernetes","ts":"2021-06-08T19:31:52.79564872Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"default/kubernetes","ts":"2021-06-08T19:31:52.79566395Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:52.795679122Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:52.795697968Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:52.795768844Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:52.795780785Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:52.795791763Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:52.795807253Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:52.795881Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:52.795895482Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:52.795906656Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:52.795919826Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:52.796022648Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:52.796033875Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:52.796044374Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:52.796060126Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:52.79617301Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:52.796187743Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:52.796199183Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:52.79621727Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:52.796323874Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:52.796335662Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/purchasing","ts":"2021-06-08T19:31:52.796346598Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/purchasing","ts":"2021-06-08T19:31:52.79635829Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/purchasing","ts":"2021-06-08T19:31:52.796432776Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/purchasing","ts":"2021-06-08T19:31:52.796449653Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-helm/mongo-helm-mongodb","ts":"2021-06-08T19:31:52.796464444Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-helm/mongo-helm-mongodb","ts":"2021-06-08T19:31:52.796613249Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-helm/mongo-helm-mongodb","ts":"2021-06-08T19:31:52.796625303Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:52.796635448Z"} 
+{"caller":"main.go:57","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:52.796643318Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:52.796687037Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:52.796703237Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:52.796784321Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:52.796845675Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:52.796864034Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:52.796879717Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:52.796983441Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:52.796994225Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:52.797004679Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:52.797015735Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:52.797075575Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:52.797090968Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:52.797101017Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:52.797113423Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:52.797186032Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:52.797196419Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:52.797208174Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:52.797223449Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:52.797312608Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:52.797323534Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3","ts":"2021-06-08T19:31:52.797333731Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3","ts":"2021-06-08T19:31:52.797345157Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3","ts":"2021-06-08T19:31:52.797420801Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3","ts":"2021-06-08T19:31:52.797431952Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:52.797442078Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:52.797454723Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:52.797541546Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:52.797552334Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:52.797561917Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:52.797577167Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:52.797656773Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:52.797667889Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:52.797677954Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:52.797692839Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:52.797765161Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:52.797777016Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:52.797789405Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:52.797800487Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:52.797918106Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:52.797937034Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:52.797953368Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:52.797974395Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:52.798122943Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:52.798148626Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/w3api","ts":"2021-06-08T19:31:52.79817735Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/w3api","ts":"2021-06-08T19:31:52.798218282Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/w3api","ts":"2021-06-08T19:31:52.798390805Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/w3api","ts":"2021-06-08T19:31:52.798414094Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"default/kubernetes","ts":"2021-06-08T19:31:52.802181538Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"default/kubernetes","ts":"2021-06-08T19:31:52.802228885Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"default/kubernetes","ts":"2021-06-08T19:31:52.802306755Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"default/kubernetes","ts":"2021-06-08T19:31:52.802319525Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:52.802333521Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:52.802348428Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:52.802415748Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"hpe-csi-driver/primera3par-csp-svc","ts":"2021-06-08T19:31:52.802427936Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:52.802440145Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:52.802451084Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:52.802515835Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"hpe-csi-driver/nimble-csp-svc","ts":"2021-06-08T19:31:52.802524544Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:52.802535228Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:52.802548585Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:52.802649491Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3-pgsql/pgsql-postgresql-ha-pgpool","ts":"2021-06-08T19:31:52.802657911Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:52.802669283Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:52.802681525Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:52.802769677Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"pgadmin4/pgadmin4","ts":"2021-06-08T19:31:52.802792298Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:52.802811039Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:52.802824375Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:52.802913645Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql","ts":"2021-06-08T19:31:52.802922253Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/purchasing","ts":"2021-06-08T19:31:52.802932447Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/purchasing","ts":"2021-06-08T19:31:52.802950602Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/purchasing","ts":"2021-06-08T19:31:52.803021057Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/purchasing","ts":"2021-06-08T19:31:52.803029735Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"mongo-helm/mongo-helm-mongodb","ts":"2021-06-08T19:31:52.803040675Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"mongo-helm/mongo-helm-mongodb","ts":"2021-06-08T19:31:52.803217208Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"mongo-helm/mongo-helm-mongodb","ts":"2021-06-08T19:31:52.803231044Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:52.816845688Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:52.816935587Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:52.817120411Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"sfc-dev/sfc-api","ts":"2021-06-08T19:31:52.81713873Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:52.81715661Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:52.817171142Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:52.817276963Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3authentication-dev","ts":"2021-06-08T19:31:52.817288003Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:52.817305138Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:52.817320829Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:52.817422674Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/cert-manager-webhook","ts":"2021-06-08T19:31:52.817432089Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/w3api","ts":"2021-06-08T19:31:52.817442605Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/w3api","ts":"2021-06-08T19:31:52.817455301Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/w3api","ts":"2021-06-08T19:31:52.81752631Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/w3api","ts":"2021-06-08T19:31:52.817541021Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:52.817551153Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:52.817565415Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:52.817681887Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3-pgsql/pgsql-postgresql-ha-postgresql-headless","ts":"2021-06-08T19:31:52.817691915Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3","ts":"2021-06-08T19:31:52.817701939Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3","ts":"2021-06-08T19:31:52.817723391Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3","ts":"2021-06-08T19:31:52.817846428Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3","ts":"2021-06-08T19:31:52.817885271Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:52.817901749Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:52.817963228Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:52.818072915Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/cert-manager","ts":"2021-06-08T19:31:52.818084515Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:52.818095088Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:52.818106293Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:52.818180433Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"wec3/wec3authentication-testing","ts":"2021-06-08T19:31:52.818188718Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:52.81819943Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:52.818210456Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:52.818290591Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"fusionauth/fusionauth","ts":"2021-06-08T19:31:52.81829889Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:52.818307987Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:52.818327043Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:52.818435046Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/kube-dns","ts":"2021-06-08T19:31:52.818444167Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:52.818456745Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:52.818467583Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:52.818525037Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"kube-system/metrics-server","ts":"2021-06-08T19:31:52.818539746Z"} 
+{"caller":"main.go:49","event":"startUpdate","msg":"start of service update","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:52.818549024Z"} 
+{"caller":"service.go:33","event":"clearAssignment","msg":"not a LoadBalancer","reason":"notLoadBalancer","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:52.818562724Z"} 
+{"caller":"main.go:75","event":"noChange","msg":"service converged, no change","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:52.818632492Z"} 
+{"caller":"main.go:76","event":"endUpdate","msg":"end of service update","service":"sfc-dev/sensor-api","ts":"2021-06-08T19:31:52.818643496Z"} 

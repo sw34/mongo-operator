@@ -1,0 +1,500 @@
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:37830","ts":"2021-06-08T18:26:05.510762253Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:26:31.512252306Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:26:53.68033228Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.48","senderMAC":"00:50:56:9f:a2:11","ts":"2021-06-08T18:26:54.392110372Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:27:01.513578661Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:37984","ts":"2021-06-08T18:27:05.513621577Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.64","senderMAC":"00:50:56:b3:14:9d","ts":"2021-06-08T18:27:15.638419982Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.96","senderMAC":"00:50:56:9f:a8:01","ts":"2021-06-08T18:27:29.267544892Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:27:31.514894136Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:57788","ts":"2021-06-08T18:27:34.140203946Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:27:53.676162963Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:28:01.516553731Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:58006","ts":"2021-06-08T18:28:04.141415027Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:28:31.517796549Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:28:53.676073752Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:28:54.526001691Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:29:01.521168183Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:58442","ts":"2021-06-08T18:29:04.143844898Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:29:31.522706278Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:29:53.676310801Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:30:01.524115111Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:38442","ts":"2021-06-08T18:30:05.521709665Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:30:31.52541597Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:59134","ts":"2021-06-08T18:30:34.148430418Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:38520","ts":"2021-06-08T18:30:35.522834432Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:30:53.676158753Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:31:01.52676741Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:59360","ts":"2021-06-08T18:31:04.149973979Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:31:21.212179373Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:31:31.528488558Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:31:53.692189668Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:32:01.530333535Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.64","senderMAC":"00:50:56:b3:14:9d","ts":"2021-06-08T18:32:15.673089861Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:32:21.21221554Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:32:31.531702769Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:60020","ts":"2021-06-08T18:32:34.15391477Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.48","senderMAC":"00:50:56:9f:a2:11","ts":"2021-06-08T18:32:49.431335462Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:32:53.67620156Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:33:01.532989949Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:33:21.212198279Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:33:31.534157862Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:33:53.676212473Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:33:56.22789086Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:34:01.535661171Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:60684","ts":"2021-06-08T18:34:04.157904277Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.4","senderMAC":"00:04:96:9b:6e:bf","ts":"2021-06-08T18:34:20.536784476Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:34:21.212192158Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:34:31.536958383Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:34:53.690411681Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:35:01.538026112Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:32914","ts":"2021-06-08T18:35:04.160707718Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:35:21.208303349Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.1","senderMAC":"02:04:96:9a:f5:4d","ts":"2021-06-08T18:35:23.955327806Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.10","senderMAC":"00:04:96:9a:f4:92","ts":"2021-06-08T18:35:24.384286421Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.11","senderMAC":"00:04:96:ae:ae:91","ts":"2021-06-08T18:35:24.509514028Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.13","senderMAC":"00:04:96:9a:fb:c4","ts":"2021-06-08T18:35:25.147915266Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.12","senderMAC":"00:04:96:9a:fb:bb","ts":"2021-06-08T18:35:25.420794597Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:35:31.539361353Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:39284","ts":"2021-06-08T18:35:35.535631762Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:35:53.687792483Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:36:01.541041473Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:33352","ts":"2021-06-08T18:36:04.163008107Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:36:31.542414366Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:36:53.686989088Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:37:01.543748689Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:33794","ts":"2021-06-08T18:37:04.165766639Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.64","senderMAC":"00:50:56:b3:14:9d","ts":"2021-06-08T18:37:16.101628264Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:37:31.544960731Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:39588","ts":"2021-06-08T18:37:35.542090836Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:37:53.685893323Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:38:01.546428153Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:34234","ts":"2021-06-08T18:38:04.168229771Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:39668","ts":"2021-06-08T18:38:05.543085843Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:38:31.547626433Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:38:53.685734741Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.48","senderMAC":"00:50:56:9f:a2:11","ts":"2021-06-08T18:38:56.236386567Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:38:58.020034878Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:39:01.548854476Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:39:31.550136782Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:34908","ts":"2021-06-08T18:39:34.175764387Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:39:53.686220596Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:40:01.551434144Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:35136","ts":"2021-06-08T18:40:04.17708419Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:40:31.552800236Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:40:53.686842836Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:41:01.553996055Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:35572","ts":"2021-06-08T18:41:04.179686106Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:41:31.555020737Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:35794","ts":"2021-06-08T18:41:34.180992763Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:41:53.687339404Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:42:01.556314943Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.64","senderMAC":"00:50:56:b3:14:9d","ts":"2021-06-08T18:42:16.123199783Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.96","senderMAC":"00:50:56:9f:a8:01","ts":"2021-06-08T18:42:24.339061089Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:42:31.557618127Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:40360","ts":"2021-06-08T18:42:35.554001893Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:42:53.671696677Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:43:01.558758563Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:40440","ts":"2021-06-08T18:43:05.55504642Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:43:31.559864214Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:36698","ts":"2021-06-08T18:43:34.18684779Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:43:53.687504271Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:43:59.839908207Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:44:01.5611975Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:44:31.56226609Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.48","senderMAC":"00:50:56:9f:a2:11","ts":"2021-06-08T18:44:49.770579382Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:44:53.687344736Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:45:01.563371894Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:40748","ts":"2021-06-08T18:45:05.559877519Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:45:31.564520848Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:37594","ts":"2021-06-08T18:45:34.192636621Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:40822","ts":"2021-06-08T18:45:35.561310387Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:45:53.67134038Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:46:01.565601724Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:37818","ts":"2021-06-08T18:46:04.193976566Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:40900","ts":"2021-06-08T18:46:05.562607295Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:46:21.223311201Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:46:31.566699553Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:46:53.687278214Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:47:01.567889251Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.64","senderMAC":"00:50:56:b3:14:9d","ts":"2021-06-08T18:47:16.380204848Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:47:21.239183202Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:47:31.569077159Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:38488","ts":"2021-06-08T18:47:34.197977616Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:47:53.687105173Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:48:01.570253393Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:38708","ts":"2021-06-08T18:48:04.200314775Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:48:21.207045977Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:48:31.57138551Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:48:53.687006568Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:49:01.572757897Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:49:01.687216247Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:39146","ts":"2021-06-08T18:49:04.203416117Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.4","senderMAC":"00:04:96:9b:6e:bf","ts":"2021-06-08T18:49:21.036673625Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:49:21.238966957Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:49:31.573837889Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:39366","ts":"2021-06-08T18:49:34.206719383Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:41434","ts":"2021-06-08T18:49:35.571598931Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:49:53.671928334Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:50:01.575514889Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:39598","ts":"2021-06-08T18:50:04.207855974Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:41514","ts":"2021-06-08T18:50:05.575056031Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:50:21.209074176Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.1","senderMAC":"02:04:96:9a:f5:4d","ts":"2021-06-08T18:50:25.074671615Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.10","senderMAC":"00:04:96:9a:f4:92","ts":"2021-06-08T18:50:25.50431686Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.11","senderMAC":"00:04:96:ae:ae:91","ts":"2021-06-08T18:50:25.629507536Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.13","senderMAC":"00:04:96:9a:fb:c4","ts":"2021-06-08T18:50:26.280268502Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.12","senderMAC":"00:04:96:9a:fb:bb","ts":"2021-06-08T18:50:26.55494955Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:50:31.576980457Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:39824","ts":"2021-06-08T18:50:34.209191925Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:41592","ts":"2021-06-08T18:50:35.575962491Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.48","senderMAC":"00:50:56:9f:a2:11","ts":"2021-06-08T18:50:50.124038442Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:51:01.57840882Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:51:02.21743892Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:40052","ts":"2021-06-08T18:51:04.213233757Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:41670","ts":"2021-06-08T18:51:05.577095607Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:51:31.58057358Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:40272","ts":"2021-06-08T18:51:34.214658351Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:51:53.689615638Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:52:01.582129393Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:40492","ts":"2021-06-08T18:52:04.215913464Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:41820","ts":"2021-06-08T18:52:05.579519001Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.64","senderMAC":"00:50:56:b3:14:9d","ts":"2021-06-08T18:52:17.355523076Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:52:31.584391528Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:41896","ts":"2021-06-08T18:52:35.580823144Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:52:53.689709488Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:53:01.585901724Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:40928","ts":"2021-06-08T18:53:04.218601072Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:41974","ts":"2021-06-08T18:53:05.581993794Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:53:31.587015012Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:53:53.67380305Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:54:01.588219914Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:54:03.505143356Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:54:31.589958746Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:42206","ts":"2021-06-08T18:54:35.586152655Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:54:53.689916786Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:55:01.591202925Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:41834","ts":"2021-06-08T18:55:04.225759623Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:42284","ts":"2021-06-08T18:55:05.587239193Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:55:31.592506368Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:42056","ts":"2021-06-08T18:55:34.227045379Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:55:53.689753766Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:56:01.594004683Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:42272","ts":"2021-06-08T18:56:04.228195843Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:42438","ts":"2021-06-08T18:56:05.589411721Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:56:31.595434718Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.48","senderMAC":"00:50:56:9f:a2:11","ts":"2021-06-08T18:56:49.745407632Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:56:53.7265626Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:57:01.597073123Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:42720","ts":"2021-06-08T18:57:04.230715995Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:42590","ts":"2021-06-08T18:57:05.592247298Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.64","senderMAC":"00:50:56:b3:14:9d","ts":"2021-06-08T18:57:18.361791487Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.96","senderMAC":"00:50:56:9f:a8:01","ts":"2021-06-08T18:57:19.570975194Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:57:31.598285556Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:42666","ts":"2021-06-08T18:57:35.593432496Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:57:53.737536534Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:58:01.599502502Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T18:58:31.600796451Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:58:53.689300197Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:59:01.602165316Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T18:59:05.118819387Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:42896","ts":"2021-06-08T18:59:05.597627653Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T18:59:31.603655823Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:42974","ts":"2021-06-08T18:59:35.598791393Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T18:59:53.689200681Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:00:01.605426325Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:00:31.606496555Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:44288","ts":"2021-06-08T19:00:34.239592922Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:00:53.709133751Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:01:01.607777221Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43198","ts":"2021-06-08T19:01:05.60350126Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:01:31.609201262Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43278","ts":"2021-06-08T19:01:35.604932298Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:01:53.689181661Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:02:01.610607538Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:44968","ts":"2021-06-08T19:02:04.243154606Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43352","ts":"2021-06-08T19:02:05.60618674Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.64","senderMAC":"00:50:56:b3:14:9d","ts":"2021-06-08T19:02:18.446741814Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:02:31.611887528Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.48","senderMAC":"00:50:56:9f:a2:11","ts":"2021-06-08T19:02:49.309299368Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:02:53.705155022Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:03:01.614557789Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:45414","ts":"2021-06-08T19:03:04.24596963Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43504","ts":"2021-06-08T19:03:05.609578914Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:03:31.616099473Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:45638","ts":"2021-06-08T19:03:34.247521745Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43584","ts":"2021-06-08T19:03:35.611163369Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:03:53.705124782Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:04:01.619360705Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:45856","ts":"2021-06-08T19:04:04.248783573Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43660","ts":"2021-06-08T19:04:05.612437859Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:04:06.898439887Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.4","senderMAC":"00:04:96:9b:6e:bf","ts":"2021-06-08T19:04:21.536570977Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:04:31.620563705Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:04:53.688913029Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:05:01.621688032Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43816","ts":"2021-06-08T19:05:05.614713239Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.1","senderMAC":"02:04:96:9a:f5:4d","ts":"2021-06-08T19:05:26.194647492Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.10","senderMAC":"00:04:96:9a:f4:92","ts":"2021-06-08T19:05:26.624527129Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.11","senderMAC":"00:04:96:ae:ae:91","ts":"2021-06-08T19:05:26.749691925Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.13","senderMAC":"00:04:96:9a:fb:c4","ts":"2021-06-08T19:05:27.412527107Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.12","senderMAC":"00:04:96:9a:fb:bb","ts":"2021-06-08T19:05:27.689504108Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:05:31.623893135Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:46534","ts":"2021-06-08T19:05:34.252796135Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:05:53.688504484Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:06:01.625255196Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:46764","ts":"2021-06-08T19:06:04.253912121Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:43968","ts":"2021-06-08T19:06:05.616960692Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:06:31.626428628Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:46994","ts":"2021-06-08T19:06:34.255091961Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44048","ts":"2021-06-08T19:06:35.618106322Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:06:53.688234374Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:07:01.627841399Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:47210","ts":"2021-06-08T19:07:04.256370924Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44122","ts":"2021-06-08T19:07:05.619262373Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.64","senderMAC":"00:50:56:b3:14:9d","ts":"2021-06-08T19:07:19.155931244Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:07:31.632742073Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:47432","ts":"2021-06-08T19:07:34.257577397Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44200","ts":"2021-06-08T19:07:35.620495591Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:07:53.688159517Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:08:01.634002705Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:47646","ts":"2021-06-08T19:08:04.258906073Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:08:31.635277951Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.48","senderMAC":"00:50:56:9f:a2:11","ts":"2021-06-08T19:08:49.971740513Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:08:53.703982688Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:09:01.63643211Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:48090","ts":"2021-06-08T19:09:04.261611081Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44430","ts":"2021-06-08T19:09:05.624621493Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:09:08.758793231Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:09:31.637537679Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:48318","ts":"2021-06-08T19:09:34.262786286Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44508","ts":"2021-06-08T19:09:35.628091066Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:09:53.703904289Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:10:01.640501622Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:10:31.641571583Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:48776","ts":"2021-06-08T19:10:34.265196089Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:10:53.703789208Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:11:01.642909531Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44736","ts":"2021-06-08T19:11:05.631752691Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:11:31.644067386Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:49218","ts":"2021-06-08T19:11:34.267795152Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:44812","ts":"2021-06-08T19:11:35.632977823Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:11:53.687825339Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:12:01.645269906Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:49438","ts":"2021-06-08T19:12:04.269200645Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.96","senderMAC":"00:50:56:9f:a8:01","ts":"2021-06-08T19:12:14.675058414Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.64","senderMAC":"00:50:56:b3:14:9d","ts":"2021-06-08T19:12:19.39695901Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:12:31.646659513Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:12:53.70378906Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:13:01.648461434Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:49872","ts":"2021-06-08T19:13:04.271665534Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:13:31.649632495Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45116","ts":"2021-06-08T19:13:35.639174748Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:13:53.703826047Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:14:01.650824389Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:50324","ts":"2021-06-08T19:14:04.274382681Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45198","ts":"2021-06-08T19:14:05.64044143Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:14:10.754589118Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:14:31.653447762Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:50552","ts":"2021-06-08T19:14:34.275715831Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45276","ts":"2021-06-08T19:14:35.641499389Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.48","senderMAC":"00:50:56:9f:a2:11","ts":"2021-06-08T19:14:49.611449344Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:14:53.703973059Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:15:01.65609839Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:50780","ts":"2021-06-08T19:15:04.276933416Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45348","ts":"2021-06-08T19:15:05.642632785Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:15:31.657722163Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:51004","ts":"2021-06-08T19:15:34.278262515Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45426","ts":"2021-06-08T19:15:35.644207651Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:15:53.703877506Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:16:01.659157704Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:51220","ts":"2021-06-08T19:16:04.279616654Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45502","ts":"2021-06-08T19:16:05.64527156Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:16:31.660233783Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:51442","ts":"2021-06-08T19:16:34.280998467Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45582","ts":"2021-06-08T19:16:35.646542316Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:16:53.688212355Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:17:01.661349505Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.64","senderMAC":"00:50:56:b3:14:9d","ts":"2021-06-08T19:17:19.981454765Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:17:31.662521427Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:51890","ts":"2021-06-08T19:17:34.284290837Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:17:53.687869033Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:18:01.66369218Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:52116","ts":"2021-06-08T19:18:04.285627978Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45806","ts":"2021-06-08T19:18:05.651435497Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:18:31.664799412Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:52338","ts":"2021-06-08T19:18:34.287279234Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:45886","ts":"2021-06-08T19:18:35.652973206Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:18:53.70386554Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:19:01.666186124Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:52554","ts":"2021-06-08T19:19:04.288993136Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:19:12.571058516Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.4","senderMAC":"00:04:96:9b:6e:bf","ts":"2021-06-08T19:19:22.036466193Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:19:31.667294392Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:52776","ts":"2021-06-08T19:19:34.290784824Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:19:53.704464368Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:20:01.668453025Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.1","senderMAC":"02:04:96:9a:f5:4d","ts":"2021-06-08T19:20:27.315012454Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.10","senderMAC":"00:04:96:9a:f4:92","ts":"2021-06-08T19:20:27.744685212Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.11","senderMAC":"00:04:96:ae:ae:91","ts":"2021-06-08T19:20:27.869774804Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.13","senderMAC":"00:04:96:9a:fb:c4","ts":"2021-06-08T19:20:28.544961812Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.12","senderMAC":"00:04:96:9a:fb:bb","ts":"2021-06-08T19:20:28.823731757Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:20:31.669860369Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:53222","ts":"2021-06-08T19:20:34.293882907Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:46194","ts":"2021-06-08T19:20:35.657919243Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.48","senderMAC":"00:50:56:9f:a2:11","ts":"2021-06-08T19:20:49.8619883Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:20:53.704756937Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:21:01.671122102Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:53444","ts":"2021-06-08T19:21:04.295196647Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:46266","ts":"2021-06-08T19:21:05.659216427Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:21:31.672361038Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:53674","ts":"2021-06-08T19:21:34.29646279Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:21:53.704712571Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:22:01.67437682Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.64","senderMAC":"00:50:56:b3:14:9d","ts":"2021-06-08T19:22:20.972857228Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:22:31.675535398Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:46498","ts":"2021-06-08T19:22:35.664044907Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:22:53.704952862Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:23:01.677432653Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:54342","ts":"2021-06-08T19:23:04.300566793Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:23:31.678675648Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:46652","ts":"2021-06-08T19:23:35.666920429Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:23:53.720482324Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:24:01.680231638Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:54780","ts":"2021-06-08T19:24:04.303189054Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:46726","ts":"2021-06-08T19:24:05.668308768Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:24:14.283254671Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:24:31.681487944Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:55002","ts":"2021-06-08T19:24:34.304563568Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:24:53.720320123Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:25:01.682846641Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:55232","ts":"2021-06-08T19:25:04.306131972Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:25:31.684208164Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:55460","ts":"2021-06-08T19:25:34.308094057Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:25:53.720151652Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:26:01.685630816Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:55682","ts":"2021-06-08T19:26:04.30948713Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:47032","ts":"2021-06-08T19:26:05.675038517Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:26:31.686865943Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:47114","ts":"2021-06-08T19:26:35.676341463Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.48","senderMAC":"00:50:56:9f:a2:11","ts":"2021-06-08T19:26:50.124650994Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:26:53.736095042Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:27:01.688167847Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:56136","ts":"2021-06-08T19:27:04.312557164Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.96","senderMAC":"00:50:56:9f:a8:01","ts":"2021-06-08T19:27:08.883029225Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.64","senderMAC":"00:50:56:b3:14:9d","ts":"2021-06-08T19:27:21.447958459Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:27:31.689517508Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:27:53.736294101Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:28:01.690732643Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:56574","ts":"2021-06-08T19:28:04.315538946Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:28:31.692003299Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:56790","ts":"2021-06-08T19:28:34.316793464Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:28:53.72027614Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:29:01.693217918Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:29:16.016702215Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:29:31.694370011Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:47570","ts":"2021-06-08T19:29:35.684603606Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:29:53.736273264Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:00.328825652Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:00.333275537Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:30:01.697907007Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:30:02.349831804Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:30:02.349878559Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:57590","ts":"2021-06-08T19:30:04.323221772Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:04.759088452Z"} 
+{"caller":"main.go:212","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:04.759158249Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:04.894216054Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:04.894826421Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:04.914526021Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:04.914578197Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:06.737471543Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:06.737535022Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:07.287712022Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:07.287762462Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:08.236757052Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:30:08.236844185Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:08.797100647Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:08.79717352Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:30:10.940225185Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:30:10.940276531Z"} 
+{"caller":"announcer.go:109","event":"createARPResponder","interface":"calif9bbb3bb778","msg":"created ARP responder for interface","ts":"2021-06-08T19:30:13.86582937Z"} 
+{"caller":"announcer.go:118","event":"createNDPResponder","interface":"calif9bbb3bb778","msg":"created NDP responder for interface","ts":"2021-06-08T19:30:13.872433488Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:20.365822375Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:20.365896628Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:30:21.578483493Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:30:26.418676228Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:30:31.699107321Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:33.463440312Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:33.46351224Z"} 
+{"caller":"announcer.go:109","event":"createARPResponder","interface":"calic9b3bb3999d","msg":"created ARP responder for interface","ts":"2021-06-08T19:30:33.885718469Z"} 
+{"caller":"announcer.go:118","event":"createNDPResponder","interface":"calic9b3bb3999d","msg":"created NDP responder for interface","ts":"2021-06-08T19:30:33.886563593Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:43.862903002Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:30:43.862978371Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:30:51.070255894Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:30:51.070332144Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:30:52.181839793Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:30:53.736391294Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:30:56.593254766Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:31:01.700451775Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:02.995297953Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:02.995378339Z"} 
+{"caller":"announcer.go:109","event":"createARPResponder","interface":"cali8e5a837ac34","msg":"created ARP responder for interface","ts":"2021-06-08T19:31:03.89969776Z"} 
+{"caller":"announcer.go:118","event":"createNDPResponder","interface":"cali8e5a837ac34","msg":"created NDP responder for interface","ts":"2021-06-08T19:31:03.900454753Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:04.286491768Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:04.286534657Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:58192","ts":"2021-06-08T19:31:04.325762715Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:15.412485304Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:15.412556793Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:15.43034812Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-cfg","ts":"2021-06-08T19:31:15.430419683Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:18.765200558Z"} 
+{"caller":"main.go:212","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:18.765293584Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:18.789726806Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:18.789819642Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:18.819331915Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:18.819403908Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:25.346322848Z"} 
+{"caller":"main.go:212","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:25.346392393Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:25.37965438Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:25.379712023Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:25.830381084Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:25.830444806Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.904777609Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.904859423Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.919816602Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:29.919884476Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.86:7946","ts":"2021-06-08T19:31:31.705294264Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:35.049258381Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:35.049981732Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:48566","ts":"2021-06-08T19:31:35.705423881Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.009491736Z"} 
+{"caller":"main.go:212","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.009547848Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.0159994Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.016057085Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.054695241Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:36.054768676Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.356240832Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.356332406Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.380139107Z"} 
+{"caller":"main.go:256","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-mongos","ts":"2021-06-08T19:31:44.38022646Z"} 
+{"caller":"main.go:199","event":"startUpdate","msg":"start of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:47.915201415Z"} 
+{"caller":"main.go:203","event":"endUpdate","msg":"end of service update","service":"mongo-dev/my-cluster-name-rs0","ts":"2021-06-08T19:31:47.915252642Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:31:53.752384539Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:32:01.706499066Z"} 
+{"caller":"announcer.go:126","event":"deleteARPResponder","interface":"calif9bbb3bb778","msg":"deleted ARP responder for interface","ts":"2021-06-08T19:32:03.946603558Z"} 
+{"caller":"announcer.go:126","event":"deleteARPResponder","interface":"calic9b3bb3999d","msg":"deleted ARP responder for interface","ts":"2021-06-08T19:32:03.960898682Z"} 
+{"caller":"announcer.go:133","event":"deleteNDPResponder","interface":"calic9b3bb3999d","msg":"deleted NDP responder for interface","ts":"2021-06-08T19:32:03.96203117Z"} 
+{"caller":"announcer.go:133","event":"deleteNDPResponder","interface":"calif9bbb3bb778","msg":"deleted NDP responder for interface","ts":"2021-06-08T19:32:03.962067933Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.86:59064","ts":"2021-06-08T19:32:04.328538228Z"} 
+{"caller":"net.go:210","component":"Memberlist","msg":"[DEBUG] memberlist: Stream connection from=192.168.1.87:48748","ts":"2021-06-08T19:32:05.706530212Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:32:06.966386583Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:32:07.010727033Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.64","senderMAC":"00:50:56:b3:14:9d","ts":"2021-06-08T19:32:22.142203342Z"} 
+{"caller":"announcer.go:126","event":"deleteARPResponder","interface":"cali8e5a837ac34","msg":"deleted ARP responder for interface","ts":"2021-06-08T19:32:23.976341921Z"} 
+{"caller":"announcer.go:133","event":"deleteNDPResponder","interface":"cali8e5a837ac34","msg":"deleted NDP responder for interface","ts":"2021-06-08T19:32:23.97649542Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:32:27.058042731Z"} 
+{"caller":"speakerlist.go:272","msg":"triggering discovery","op":"memberDiscovery","ts":"2021-06-08T19:32:27.098581354Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:32:31.708076771Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.48","senderMAC":"00:50:56:9f:a2:11","ts":"2021-06-08T19:32:49.445302618Z"} 
+{"caller":"arp.go:102","interface":"ens160","ip":"192.168.1.170","msg":"got ARP request for service IP, sending response","responseMAC":"00:50:56:9f:43:cc","senderIP":"192.168.1.2","senderMAC":"00:1a:8c:f0:b9:20","ts":"2021-06-08T19:32:53.752414875Z"} 
+{"caller":"net.go:785","component":"Memberlist","msg":"[DEBUG] memberlist: Initiating push/pull sync with: 192.168.1.87:7946","ts":"2021-06-08T19:33:01.709383796Z"} 
