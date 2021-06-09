@@ -1,0 +1,103 @@
+{"log":"I0608 18:48:23.457413    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T18:48:23.45766111Z"}
+{"log":"I0608 18:48:23.525640    1533 proxier.go:826] syncProxyRules took 68.938701ms\n","stream":"stderr","time":"2021-06-08T18:48:23.525757266Z"}
+{"log":"I0608 19:30:04.728702    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:30:04.756839492Z"}
+{"log":"I0608 19:30:04.729497    1533 service.go:390] Adding new service port \"mongo-dev/my-cluster-name-mongos:mongos\" at 10.43.18.131:27017/TCP\n","stream":"stderr","time":"2021-06-08T19:30:04.756867744Z"}
+{"log":"I0608 19:30:04.736642    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:30:04.756872811Z"}
+{"log":"I0608 19:30:04.868253    1533 proxier.go:1715] Opened local port \"nodePort for mongo-dev/my-cluster-name-mongos:mongos\" (:31504/tcp)\n","stream":"stderr","time":"2021-06-08T19:30:04.868415437Z"}
+{"log":"I0608 19:30:04.886975    1533 proxier.go:826] syncProxyRules took 158.137868ms\n","stream":"stderr","time":"2021-06-08T19:30:04.888030375Z"}
+{"log":"I0608 19:30:04.887742    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:30:04.888060662Z"}
+{"log":"I0608 19:30:04.894792    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:30:04.895185372Z"}
+{"log":"I0608 19:30:04.914930    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:30:04.915045377Z"}
+{"log":"I0608 19:30:05.005962    1533 proxier.go:826] syncProxyRules took 118.934092ms\n","stream":"stderr","time":"2021-06-08T19:30:05.006128946Z"}
+{"log":"I0608 19:30:06.007087    1533 service.go:392] Updating existing service port \"mongo-dev/my-cluster-name-mongos:mongos\" at 10.43.18.131:27017/TCP\n","stream":"stderr","time":"2021-06-08T19:30:06.014690668Z"}
+{"log":"I0608 19:30:06.007321    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:30:06.014718452Z"}
+{"log":"I0608 19:30:06.087322    1533 proxier.go:826] syncProxyRules took 81.179098ms\n","stream":"stderr","time":"2021-06-08T19:30:06.088858588Z"}
+{"log":"I0608 19:30:06.749590    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:30:06.749710293Z"}
+{"log":"I0608 19:30:06.843670    1533 proxier.go:826] syncProxyRules took 94.788328ms\n","stream":"stderr","time":"2021-06-08T19:30:06.845624619Z"}
+{"log":"I0608 19:30:46.950733    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 0 ports\n","stream":"stderr","time":"2021-06-08T19:30:46.960105049Z"}
+{"log":"I0608 19:30:46.951406    1533 service.go:415] Removing service port \"mongo-dev/my-cluster-name-mongos:mongos\"\n","stream":"stderr","time":"2021-06-08T19:30:46.96015303Z"}
+{"log":"I0608 19:30:46.951495    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:30:46.960161118Z"}
+{"log":"I0608 19:30:47.046509    1533 proxier.go:826] syncProxyRules took 95.737286ms\n","stream":"stderr","time":"2021-06-08T19:30:47.046639808Z"}
+{"log":"I0608 19:30:48.671477    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:30:48.671750948Z"}
+{"log":"I0608 19:30:48.756210    1533 proxier.go:826] syncProxyRules took 85.394809ms\n","stream":"stderr","time":"2021-06-08T19:30:48.756346926Z"}
+{"log":"I0608 19:31:18.744317    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:31:18.74598484Z"}
+{"log":"I0608 19:31:18.750087    1533 service.go:390] Adding new service port \"mongo-dev/my-cluster-name-mongos:mongos\" at 10.43.222.223:27017/TCP\n","stream":"stderr","time":"2021-06-08T19:31:18.758030131Z"}
+{"log":"I0608 19:31:18.750188    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:18.758048319Z"}
+{"log":"I0608 19:31:18.787919    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:31:18.788048581Z"}
+{"log":"I0608 19:31:18.823178    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:31:18.823321675Z"}
+{"log":"I0608 19:31:18.854647    1533 proxier.go:1715] Opened local port \"nodePort for mongo-dev/my-cluster-name-mongos:mongos\" (:32028/tcp)\n","stream":"stderr","time":"2021-06-08T19:31:18.854762702Z"}
+{"log":"I0608 19:31:18.878657    1533 proxier.go:826] syncProxyRules took 129.924128ms\n","stream":"stderr","time":"2021-06-08T19:31:18.878761972Z"}
+{"log":"I0608 19:31:18.879420    1533 service.go:392] Updating existing service port \"mongo-dev/my-cluster-name-mongos:mongos\" at 10.43.222.223:27017/TCP\n","stream":"stderr","time":"2021-06-08T19:31:18.879500275Z"}
+{"log":"I0608 19:31:18.880523    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:18.880616155Z"}
+{"log":"I0608 19:31:19.024513    1533 proxier.go:826] syncProxyRules took 145.814055ms\n","stream":"stderr","time":"2021-06-08T19:31:19.024633002Z"}
+{"log":"I0608 19:31:21.970000    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 0 ports\n","stream":"stderr","time":"2021-06-08T19:31:21.972720587Z"}
+{"log":"I0608 19:31:21.970815    1533 service.go:415] Removing service port \"mongo-dev/my-cluster-name-mongos:mongos\"\n","stream":"stderr","time":"2021-06-08T19:31:21.97275092Z"}
+{"log":"I0608 19:31:21.970895    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:21.972755948Z"}
+{"log":"I0608 19:31:22.099974    1533 proxier.go:826] syncProxyRules took 129.934292ms\n","stream":"stderr","time":"2021-06-08T19:31:22.100153803Z"}
+{"log":"I0608 19:31:22.102637    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:22.102751618Z"}
+{"log":"I0608 19:31:22.188848    1533 proxier.go:826] syncProxyRules took 88.835352ms\n","stream":"stderr","time":"2021-06-08T19:31:22.188977633Z"}
+{"log":"I0608 19:31:25.313234    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:31:25.314146604Z"}
+{"log":"I0608 19:31:25.313791    1533 service.go:390] Adding new service port \"mongo-dev/my-cluster-name-mongos:mongos\" at 10.43.249.237:27017/TCP\n","stream":"stderr","time":"2021-06-08T19:31:25.314190741Z"}
+{"log":"I0608 19:31:25.313859    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:25.314195561Z"}
+{"log":"I0608 19:31:25.377767    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:31:25.377989461Z"}
+{"log":"I0608 19:31:25.532019    1533 proxier.go:1715] Opened local port \"nodePort for mongo-dev/my-cluster-name-mongos:mongos\" (:32707/tcp)\n","stream":"stderr","time":"2021-06-08T19:31:25.53240461Z"}
+{"log":"I0608 19:31:25.542604    1533 proxier.go:826] syncProxyRules took 229.328147ms\n","stream":"stderr","time":"2021-06-08T19:31:25.542776854Z"}
+{"log":"I0608 19:31:25.543255    1533 service.go:392] Updating existing service port \"mongo-dev/my-cluster-name-mongos:mongos\" at 10.43.249.237:27017/TCP\n","stream":"stderr","time":"2021-06-08T19:31:25.546134617Z"}
+{"log":"I0608 19:31:25.543378    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:25.546152534Z"}
+{"log":"I0608 19:31:25.676425    1533 proxier.go:826] syncProxyRules took 133.755453ms\n","stream":"stderr","time":"2021-06-08T19:31:25.67654871Z"}
+{"log":"I0608 19:31:28.581584    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 0 ports\n","stream":"stderr","time":"2021-06-08T19:31:28.586109736Z"}
+{"log":"I0608 19:31:28.588199    1533 service.go:415] Removing service port \"mongo-dev/my-cluster-name-mongos:mongos\"\n","stream":"stderr","time":"2021-06-08T19:31:28.588785658Z"}
+{"log":"I0608 19:31:28.588297    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:28.590297238Z"}
+{"log":"I0608 19:31:28.688112    1533 proxier.go:826] syncProxyRules took 106.47039ms\n","stream":"stderr","time":"2021-06-08T19:31:28.688358459Z"}
+{"log":"I0608 19:31:28.690042    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:28.690728001Z"}
+{"log":"I0608 19:31:28.783264    1533 proxier.go:826] syncProxyRules took 95.003073ms\n","stream":"stderr","time":"2021-06-08T19:31:28.783401072Z"}
+{"log":"I0608 19:31:29.874528    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:31:29.874643911Z"}
+{"log":"I0608 19:31:29.875246    1533 service.go:390] Adding new service port \"mongo-dev/my-cluster-name-mongos:mongos\" at 10.43.213.25:27017/TCP\n","stream":"stderr","time":"2021-06-08T19:31:29.876221862Z"}
+{"log":"I0608 19:31:29.875334    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:29.876740604Z"}
+{"log":"I0608 19:31:29.902295    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:31:29.902711363Z"}
+{"log":"I0608 19:31:29.921100    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:31:29.921439109Z"}
+{"log":"I0608 19:31:29.960872    1533 proxier.go:1715] Opened local port \"nodePort for mongo-dev/my-cluster-name-mongos:mongos\" (:31850/tcp)\n","stream":"stderr","time":"2021-06-08T19:31:29.960987992Z"}
+{"log":"I0608 19:31:29.969700    1533 proxier.go:826] syncProxyRules took 95.130759ms\n","stream":"stderr","time":"2021-06-08T19:31:29.969798095Z"}
+{"log":"I0608 19:31:30.970610    1533 service.go:392] Updating existing service port \"mongo-dev/my-cluster-name-mongos:mongos\" at 10.43.213.25:27017/TCP\n","stream":"stderr","time":"2021-06-08T19:31:30.972020564Z"}
+{"log":"I0608 19:31:30.970716    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:30.972047744Z"}
+{"log":"I0608 19:31:31.065818    1533 proxier.go:826] syncProxyRules took 95.989656ms\n","stream":"stderr","time":"2021-06-08T19:31:31.065917089Z"}
+{"log":"I0608 19:31:32.663841    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 0 ports\n","stream":"stderr","time":"2021-06-08T19:31:32.665589239Z"}
+{"log":"I0608 19:31:32.668259    1533 service.go:415] Removing service port \"mongo-dev/my-cluster-name-mongos:mongos\"\n","stream":"stderr","time":"2021-06-08T19:31:32.668529038Z"}
+{"log":"I0608 19:31:32.668348    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:32.668543155Z"}
+{"log":"I0608 19:31:32.797039    1533 proxier.go:826] syncProxyRules took 133.162663ms\n","stream":"stderr","time":"2021-06-08T19:31:32.797161752Z"}
+{"log":"I0608 19:31:32.797732    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:32.797783756Z"}
+{"log":"I0608 19:31:32.852358    1533 proxier.go:826] syncProxyRules took 55.279748ms\n","stream":"stderr","time":"2021-06-08T19:31:32.852493423Z"}
+{"log":"I0608 19:31:35.984351    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:31:35.987863612Z"}
+{"log":"I0608 19:31:35.985747    1533 service.go:390] Adding new service port \"mongo-dev/my-cluster-name-mongos:mongos\" at 10.43.121.212:27017/TCP\n","stream":"stderr","time":"2021-06-08T19:31:35.98788518Z"}
+{"log":"I0608 19:31:35.985816    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:35.987889905Z"}
+{"log":"I0608 19:31:36.023376    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:31:36.023633888Z"}
+{"log":"I0608 19:31:36.051472    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:31:36.051590111Z"}
+{"log":"I0608 19:31:36.086074    1533 proxier.go:1715] Opened local port \"nodePort for mongo-dev/my-cluster-name-mongos:mongos\" (:31579/tcp)\n","stream":"stderr","time":"2021-06-08T19:31:36.086409983Z"}
+{"log":"I0608 19:31:36.094740    1533 proxier.go:826] syncProxyRules took 110.344238ms\n","stream":"stderr","time":"2021-06-08T19:31:36.095554987Z"}
+{"log":"I0608 19:31:36.095380    1533 service.go:392] Updating existing service port \"mongo-dev/my-cluster-name-mongos:mongos\" at 10.43.121.212:27017/TCP\n","stream":"stderr","time":"2021-06-08T19:31:36.0955863Z"}
+{"log":"I0608 19:31:36.095678    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:36.095749987Z"}
+{"log":"I0608 19:31:36.210928    1533 proxier.go:826] syncProxyRules took 116.153088ms\n","stream":"stderr","time":"2021-06-08T19:31:36.211042675Z"}
+{"log":"I0608 19:31:39.517834    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 0 ports\n","stream":"stderr","time":"2021-06-08T19:31:39.518896346Z"}
+{"log":"I0608 19:31:39.518809    1533 service.go:415] Removing service port \"mongo-dev/my-cluster-name-mongos:mongos\"\n","stream":"stderr","time":"2021-06-08T19:31:39.520197262Z"}
+{"log":"I0608 19:31:39.518904    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:39.520212135Z"}
+{"log":"I0608 19:31:39.671282    1533 proxier.go:826] syncProxyRules took 153.399742ms\n","stream":"stderr","time":"2021-06-08T19:31:39.671503381Z"}
+{"log":"I0608 19:31:39.677229    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:39.67746167Z"}
+{"log":"I0608 19:31:39.801817    1533 proxier.go:826] syncProxyRules took 130.467849ms\n","stream":"stderr","time":"2021-06-08T19:31:39.80192257Z"}
+{"log":"I0608 19:31:44.319118    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:31:44.332389684Z"}
+{"log":"I0608 19:31:44.319670    1533 service.go:390] Adding new service port \"mongo-dev/my-cluster-name-mongos:mongos\" at 10.43.15.61:27017/TCP\n","stream":"stderr","time":"2021-06-08T19:31:44.332399461Z"}
+{"log":"I0608 19:31:44.319743    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:44.332403449Z"}
+{"log":"I0608 19:31:44.349240    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:31:44.34945869Z"}
+{"log":"I0608 19:31:44.388854    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 1 ports\n","stream":"stderr","time":"2021-06-08T19:31:44.389251917Z"}
+{"log":"I0608 19:31:44.436640    1533 proxier.go:1715] Opened local port \"nodePort for mongo-dev/my-cluster-name-mongos:mongos\" (:32557/tcp)\n","stream":"stderr","time":"2021-06-08T19:31:44.436839677Z"}
+{"log":"I0608 19:31:44.444835    1533 proxier.go:826] syncProxyRules took 125.683052ms\n","stream":"stderr","time":"2021-06-08T19:31:44.444930319Z"}
+{"log":"I0608 19:31:44.445505    1533 service.go:392] Updating existing service port \"mongo-dev/my-cluster-name-mongos:mongos\" at 10.43.15.61:27017/TCP\n","stream":"stderr","time":"2021-06-08T19:31:44.445604678Z"}
+{"log":"I0608 19:31:44.445742    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:44.445799777Z"}
+{"log":"I0608 19:31:44.499117    1533 proxier.go:826] syncProxyRules took 54.168322ms\n","stream":"stderr","time":"2021-06-08T19:31:44.499262957Z"}
+{"log":"I0608 19:31:51.688471    1533 service.go:275] Service mongo-dev/my-cluster-name-mongos updated: 0 ports\n","stream":"stderr","time":"2021-06-08T19:31:51.691844188Z"}
+{"log":"I0608 19:31:51.689090    1533 service.go:415] Removing service port \"mongo-dev/my-cluster-name-mongos:mongos\"\n","stream":"stderr","time":"2021-06-08T19:31:51.691867452Z"}
+{"log":"I0608 19:31:51.689208    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:51.691871936Z"}
+{"log":"I0608 19:31:51.806891    1533 proxier.go:826] syncProxyRules took 118.362751ms\n","stream":"stderr","time":"2021-06-08T19:31:51.807016073Z"}
+{"log":"I0608 19:31:51.808244    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T19:31:51.808353193Z"}
+{"log":"I0608 19:31:51.877643    1533 proxier.go:826] syncProxyRules took 70.502236ms\n","stream":"stderr","time":"2021-06-08T19:31:51.87774654Z"}
+{"log":"I0608 20:31:51.878810    1533 proxier.go:871] Syncing iptables rules\n","stream":"stderr","time":"2021-06-08T20:31:51.879034567Z"}
+{"log":"I0608 20:31:51.935565    1533 proxier.go:826] syncProxyRules took 57.765881ms\n","stream":"stderr","time":"2021-06-08T20:31:51.93568791Z"}
